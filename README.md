@@ -1,16 +1,15 @@
-# medtrack
+# Medtrack
 
-A new Flutter project.
+MedTrack – Medication Management System
 
-## Getting Started
+MedTrack is a user-friendly medication management application designed to help users track their prescriptions, set dosage reminders, and monitor adherence. The app features:
 
-This project is a starting point for a Flutter application.
+Medication Reminders: Custom alerts for doses, refills, and appointments.
 
-A few resources to get you started if this is your first Flutter project:
+Prescription Tracking: Log and organize medications with dosage details.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Adherence Reports: Visual insights into medication compliance.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Secure Profiles: Personalized user accounts for individual or caregiver use.
+
+Built with  Flutter for cross-platform support, Firebase for backend, MedTrack simplifies healthcare routines, reducing missed doses and improving patient outcomes.
